@@ -1,7 +1,7 @@
-Hi 👋 My name is GREED
+Hi 👋 My name is GREED 🐢
 ======================
 
-Bioinformatics
+Data science @bioinformatics
 --------------
 
 *   🌍  I'm based in Florence
