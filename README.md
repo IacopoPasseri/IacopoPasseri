@@ -1,10 +1,10 @@
-Hi 👋 My name is GREED 🐢
+GREED 🐢
 ======================
 
 Data science @bioinformatics
 --------------
 
-*   🌍  I'm based in Florence
+*   🌍  Based in Florence
 *   ✉️  You can contact me at [iacopo.passeri@unifi.it](mailto:iacopo.passeri@unifi.it)
 *   ⚡  Data scientist 'cause programming reduces my social anxiety. Sometimes I'm a wizard too.
 ### Skills
