@@ -1,7 +1,7 @@
 GREED 🐢
 ======================
 
-Data science @bioinformatics
+PhD student in data science @bioinformatics
 --------------
 
 *   🌍  Based in Florence
