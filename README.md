@@ -3,8 +3,8 @@
 PhD student in data science @bioinformatics
 --------------
 
-*   🌍  Based in Florence
-*   ✉️  You can contact me at [iacopo.passeri@unifi.it](mailto:iacopo.passeri@unifi.it)
+*   🌍  Based in Florence, Italy
+*   ✉️  You can contact me here: [iacopo.passeri@unifi.it](mailto:iacopo.passeri@unifi.it)
 *   ⚡  Data scientist 'cause programming reduces my social anxiety. Sometimes I'm a wizard too.
 
 ### You can find me here as well:
