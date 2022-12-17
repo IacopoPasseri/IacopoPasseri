@@ -1,6 +1,6 @@
 # GREED 🐢
 
-# 💫 About Me:
+# About Me:
 PhD student in data science @bioinformatics.
 
 *   🌍  Based in Florence, Italy
