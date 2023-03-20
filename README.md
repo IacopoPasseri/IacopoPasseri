@@ -1,7 +1,5 @@
-# GREED 🐢
-
 # About Me:
-PhD student in data science @bioinformatics.
+I'm a PhD student in data science @bioinformatics.
 
 *   🌍  Based in Florence, Italy
 *   ✉️  You can contact me here: [iacopo.passeri@unifi.it](mailto:iacopo.passeri@unifi.it)
