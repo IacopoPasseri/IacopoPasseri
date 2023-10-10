@@ -9,6 +9,7 @@ class BioWizard:
         self.age = "30"
         self.location = "Florence, Italy"
         self.contact = "iacopo.passeri@unifi.it"
+        self.edu = "Master's in Molecular Genetics"
         self.group = "https://www.bio.unifi.it/vp-490-iacopo-passeri.html"
         self.role = "bioinformatician"
         self.title = "phd"
