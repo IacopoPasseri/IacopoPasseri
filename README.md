@@ -1,7 +1,5 @@
 
 ```
-#!/usr/bin/greed
-
 class BioWizard:
 
     def __init__(self):
