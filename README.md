@@ -9,6 +9,6 @@ class Bioinformagician:
 me = Bioinformagician()
 ```
 
-_"True bioinformatics lives at the intersection of biology, data and storytelling."_ 
+## _"True bioinformatics lives at the intersection of biology, data and storytelling."_ 
 
 Find all my scientific publications [here](https://www.researchgate.net/profile/Iacopo-Passeri/research)
